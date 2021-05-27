@@ -1,3 +1,60 @@
+# ☎ Controle de Contatos
+<p align="center">
+  <a href="https://www.php.net">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white" title="PHP" alt="PHP Badge" />
+  </a>
+  <a href="https://laravel.com">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white" title="Laravel" alt="Laravel Badge" />
+  </a>
+</p>
+
+<p align="justify">
+  Projeto desenvolvido em PHP, usando o framework Lavarvel, para aplicar conceitos aprendidos ao longo da disciplina de Desenvolvimento de Aplicações WEB II, ministrada pelo Prof. Me. Danyllo Wagner Albuquerque, no 3º ano do Curso Técnico em Informática Integrado ao Ensino Médio, do IFPB - Campus Campina Grande, em 2020 e 2021.
+</p>
+
+## 🚀 Iniciando
+1. É necessário ter uma versão de [PHP](https://www.php.net/ "Página inicial de PHP") instalada em sua máquina
+
+2. Baixe o repositório
+ - Usando Git
+  ```
+  https://github.com/TavaresJonatas/Controle-de-Contatos.git
+  ```
+  - Usando GitHub CLI
+  ```
+  gh repo clone TavaresJonatas/Controle-de-Contatos
+  ```
+  > 💡 ou da maneira que você preferir
+
+3. Em um terminal, acesse o diretório do projeto e execute a aplicação
+  ```
+  php artisan serve
+  ```
+4. Acesse a aplicação em seu navegador através de [localhost:8000/contatos](http://localhost:8000/contatos "Página inicial")
+
+## ⚡ Como Funciona
+<p align="justify">
+  Esta aplicação objetiva, a partir de um cadastro de usuário, criar, visualizar e editar contatos e suas respectivas informações.
+</p>
+
+<p align="center">
+  <b>Figura 1</b> - Tela Inicial<br />
+  <img src="screenshots/signin.png" width="50%" height="50%" title="Tela Inicial" alt="Screenshot da Tela Inicial" /><br />
+  <b>Figura 2</b> - Tela de Registro<br />
+  <img src="screenshots/signup.png" width="50%" height="50%" title="Tela de Registro" alt="Screenshot da Tela de Registro" /><br />
+  <b>Figura 3</b> - Tela de Contatos<br />
+  <img src="screenshots/contacts.png" width="50%" height="50%" title="Tela de Contatos" alt="Screenshot da Tela de Contatos" /><br />
+  <b>Figura 4</b> - Tela de Cadastro de Novo Contato<br />
+  <img src="screenshots/add-contact.png" width="50%" height="50%" title="Tela de Cadastro de Novo Contato" alt="Screenshot da Tela de Cadastro de Novo Contato" /><br />
+  <b>Figura 5</b> - Tela de Informações de Contato<br />
+  <img src="screenshots/contact-info.png" width="50%" height="50%" title="Tela de Informações de Contato" alt="Screenshot da Tela de Informações de Contato" /><br />
+</p>
+
+## 💻 Equipe
+| [<img alt="TavaresJonatas" src="https://github.com/TavaresJonatas.png?size=115" width="115" /><br /><sub>Jônatas Tavares</sub>](https://github.com/TavaresJonatas "Jônatas Tavares (@TavaresJonatas)") | [<img alt="llucas17" src="https://github.com/llucas17.png?size=115" width="115"><br><sub>Lucas Silva</sub>](https://github.com/llucas17 "Lucas Silva (@llucas17)") |
+| :---: | :---: |
+
+<!--
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -60,3 +117,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+-->
