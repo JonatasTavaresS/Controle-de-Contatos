@@ -39,15 +39,15 @@
 
 <p align="center">
   <b>Figura 1</b> - Tela Inicial<br />
-  <img src="screenshots/signin.png" width="50%" height="50%" title="Tela Inicial" alt="Screenshot da Tela Inicial" /><br />
+  <img src="screenshots/signin.png" width="60%" height="60%" title="Tela Inicial" alt="Screenshot da Tela Inicial" /><br />
   <b>Figura 2</b> - Tela de Registro<br />
-  <img src="screenshots/signup.png" width="50%" height="50%" title="Tela de Registro" alt="Screenshot da Tela de Registro" /><br />
+  <img src="screenshots/signup.png" width="60%" height="60%" title="Tela de Registro" alt="Screenshot da Tela de Registro" /><br />
   <b>Figura 3</b> - Tela de Contatos<br />
-  <img src="screenshots/contacts.png" width="50%" height="50%" title="Tela de Contatos" alt="Screenshot da Tela de Contatos" /><br />
+  <img src="screenshots/contacts.png" width="60%" height="60%" title="Tela de Contatos" alt="Screenshot da Tela de Contatos" /><br />
   <b>Figura 4</b> - Tela de Cadastro de Novo Contato<br />
-  <img src="screenshots/add-contact.png" width="50%" height="50%" title="Tela de Cadastro de Novo Contato" alt="Screenshot da Tela de Cadastro de Novo Contato" /><br />
+  <img src="screenshots/add-contact.png" width="60%" height="60%" title="Tela de Cadastro de Novo Contato" alt="Screenshot da Tela de Cadastro de Novo Contato" /><br />
   <b>Figura 5</b> - Tela de Informações de Contato<br />
-  <img src="screenshots/contact-info.png" width="50%" height="50%" title="Tela de Informações de Contato" alt="Screenshot da Tela de Informações de Contato" /><br />
+  <img src="screenshots/contact-info.png" width="60%" height="60%" title="Tela de Informações de Contato" alt="Screenshot da Tela de Informações de Contato" /><br />
 </p>
 
 ## 💻 Equipe
