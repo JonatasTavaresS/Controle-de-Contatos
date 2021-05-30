@@ -51,8 +51,11 @@
 </p>
 
 ## 💻 Equipe
-| [<img alt="TavaresJonatas" src="https://github.com/TavaresJonatas.png?size=115" width="115" /><br /><sub>Jônatas Tavares</sub>](https://github.com/TavaresJonatas "Jônatas Tavares (@TavaresJonatas)") | [<img alt="llucas17" src="https://github.com/llucas17.png?size=115" width="115"><br><sub>Lucas Silva</sub>](https://github.com/llucas17 "Lucas Silva (@llucas17)") |
-| :---: | :---: |
+<table>
+  <tr align="center">
+    <td><a href="https://github.com/TavaresJonatas" title="Jônatas Tavares"><img src="https://avatars.githubusercontent.com/u/50882611" width="115px" alt="Foto de perfil de Jônatas Tavares" /><br /><sub>Jônatas Tavares</sub></a></td>
+    <td><a href="https://github.com/FtnLucas" title="Lucas Silva"><img src="https://avatars.githubusercontent.com/u/49314445" width="115px" alt="Foto de perfil de Lucas Silva" /><br /><sub>Lucas Silva</sub></a></td>
+</table>
 
 <!--
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
